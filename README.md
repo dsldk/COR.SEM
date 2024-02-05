@@ -1,7 +1,7 @@
-# COR.SEM - Det semantiske komponent af COR
+# COR.SEM - Det semantiske modul i COR
 
 Dette repositorium indeholder data for COR.SEM 1.0 resursen og den supplerende resurse COR.SEM.EXT 1.0.
-Bemærk at de to resurser har **forskellig liscens**.
+Bemærk at de to resurser har **forskellig licens**.
 
 
 # COR.SEM 1.0
